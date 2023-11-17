@@ -2,3 +2,11 @@
     background-color: #1A187A;
 
 }
+
+        .banner {
+            position: relative;
+            background: url('./resources/bg.png') center center/cover no-repeat; /* Set the path to your background image */
+        }
+
+        /* Add any additional styles here */
+
