@@ -1,12 +1,10 @@
-.nav_bar{
-    background-color: #1A187A;
-
+.nav_bar {
+  background-color: #1a187a;
 }
 
-        .banner {
-            position: relative;
-            background: url('./resources/bg.png') center center/cover no-repeat; /* Set the path to your background image */
-        }
+.banner {
+  position: relative;
+  background: url("./resources/bg.png") center center/cover no-repeat; /* Set the path to your background image */
+}
 
-        /* Add any additional styles here */
-
+/* Add any additional styles here */
